@@ -12,6 +12,8 @@ Hack Cameras
 
 * pip3 install requests
 
-* cd Cam-Hackers
+* cd Cam-Hackers-ioi
 
-* python3 cam-hackers.py
+* chmod +x ./cam-hackers-ioi.py
+
+* python3 cam-hackers-ioi.py
